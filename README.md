@@ -2,7 +2,7 @@
 Data extraction and word analysis distribution using NLP.
 
 # Tools :
-Python:
+Python libraries :
 - Requests
 - BeautifulSoup
 - NLTK
